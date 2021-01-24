@@ -12,7 +12,7 @@ Output: d1cba hgf!e
 
 ## Additional information
 
-- 9 Junit5 tests included
+- 9 Junit5 tests are included
 - Built using the principles of OOP
 
 ## Usage
