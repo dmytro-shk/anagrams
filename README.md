@@ -1,6 +1,6 @@
 # Anagrams
 
-Anagrams is a Maven based Java project who build сommand line tool for rebuild singly words in a sentence into anagrams.
+Anagrams is a Maven based Java project who include сommand line tool for rebuild singly words in a sentence into anagrams.
 
 ## Example
 
