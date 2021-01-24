@@ -10,6 +10,11 @@ Input:   a1bcd efg!h
 
 Output: d1cba hgf!e
 
+## Additional information
+
+- 9 Junit5 tests included
+- Built using the principles of OOP
+
 ## Usage
 
 - Open comand line in project root directory
