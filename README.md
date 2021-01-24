@@ -4,7 +4,7 @@ Anagrams is a Maven based Java project who include сommand line tool for rebuil
 
 ## Example
 
-All non letters symbols are stay on the self place
+All non letters symbols are stays in the same places
 
 Input:   a1bcd efg!h
 
