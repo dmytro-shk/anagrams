@@ -4,11 +4,11 @@ Anagrams is a Maven based Java project who build сommand line tool for rebuild 
 
 ## Example
 
-```text
 All non letters symbols are stay on the self place
-Input:  a1bcd efg!h
+
+Input:   a1bcd efg!h
+
 Output: d1cba hgf!e
-```
 
 ## Usage
 
