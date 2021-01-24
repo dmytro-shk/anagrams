@@ -12,13 +12,16 @@ Output: d1cba hgf!e
 
 ## Usage
 
-```cmd
-#Open comand line in root project directory
+- Open comand line in project root directory
 
-#Build project
+- Build project
+
+```
 mvn package
+```
+- Run
 
-#Run
+```
 java -jar target\anagrams-1.0.jar
 
 ```
